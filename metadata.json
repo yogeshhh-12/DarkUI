@@ -1,0 +1,6 @@
+{
+  "name": "SafeCart",
+  "description": "Pre-payment transparency and cybersecurity assistant helping consumers spot hidden fees, recurring subscriptions, and deceptive checkout patterns before they pay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
